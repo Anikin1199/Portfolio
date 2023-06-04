@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: aquamarine;
+color: black;
+}
+main{
+background-color: aquamarine;
+color: black;
+
+
+}
+header{
+
+    border: 10px double black;
+}
+h1{
+
+border: 5px dotted lightskyblue;
+
+}
+
+.photo{
+width: 100%;
+
+}
